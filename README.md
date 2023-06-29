@@ -1,7 +1,7 @@
 # hooky
 Dating app
 
-*Getting Started*
+# *Getting Started*
 Install dependencies
 `yarn expo install`
 
